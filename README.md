@@ -26,6 +26,7 @@ Advanced Shell Commands
 
 ```give me a shell command which creater than 10GB in size```
 
+```give me a shell command to find all files which were created in last 3 days```
 
 
 ## 3.11 Level 3
