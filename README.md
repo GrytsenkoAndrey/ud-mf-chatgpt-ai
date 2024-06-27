@@ -88,6 +88,12 @@ Career Development
 ![image](https://github.com/GrytsenkoAndrey/ud-mf-chatgpt-ai/assets/63291871/598dd258-0668-4369-bf52-323a02ee96fc)
 
 
+## 4.17 Tokens and Temperature
+
+![image](https://github.com/GrytsenkoAndrey/ud-mf-chatgpt-ai/assets/63291871/b82ce2e4-b599-4c6f-b427-e06f0da3aa0d)
+
+![image](https://github.com/GrytsenkoAndrey/ud-mf-chatgpt-ai/assets/63291871/6d701425-95f5-45f2-babb-c66a304f880c)
+
 
 
 
