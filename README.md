@@ -2,5 +2,6 @@
 
 ## 1.2 AI, ML, Deep Learning
 
-![image](https://github.com/GrytsenkoAndrey/ud-mf-chatgpt-ai/assets/63291871/869832f8-9eb0-49e3-aaac-d20099b4acc8)
+![image](https://github.com/GrytsenkoAndrey/ud-mf-chatgpt-ai/assets/63291871/e7539fb3-dbd3-4c4e-960d-3ce124ccb789)
+
 
