@@ -42,13 +42,26 @@ Basic coding and testing
 
 Advance coding exercise
 
+```i want to scrape data from the entire website recursively using Puppetter in JavaScript, please give me code for this ```
 
+```instead of Puppetter use node-fetch ```
 
+```please give me a code to remove links of hyperlink in above code```
 
 
 ## 3.13 Level 5 
 
 End to End project execution
 
+![image](https://github.com/GrytsenkoAndrey/ud-mf-chatgpt-ai/assets/63291871/d71e353c-4a96-4c4c-99cf-d281ca949bc3)
 
 
+``` ```
+
+
+## 3.14 Level 6
+
+Career Development
+
+
+## 4.
