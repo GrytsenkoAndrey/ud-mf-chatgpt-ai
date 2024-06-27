@@ -33,10 +33,17 @@ Advanced Shell Commands
 
 Basic coding and testing
 
+```as a Python developer write a function that takes in a list of numbers and returns the average, medium and mode of the list. Add step by step guide and explanation and technical documentation ```
+
+``` please refactor the code to give the best time complexity```
+
 
 ## 3.12 Level 4
 
 Advance coding exercise
+
+
+
 
 
 ## 3.13 Level 5 
