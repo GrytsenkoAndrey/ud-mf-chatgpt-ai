@@ -56,7 +56,19 @@ End to End project execution
 ![image](https://github.com/GrytsenkoAndrey/ud-mf-chatgpt-ai/assets/63291871/d71e353c-4a96-4c4c-99cf-d281ca949bc3)
 
 
-``` ```
+```you are my AWS architect please give me design with detailed explanation of how to create a microservices that will recieve data from various sources into S3 and store it in Parge format```
+
+```please give me code of the entire architecture ```
+
+```consider the data sources as JSON and CSV file types expected data volume to be 100 GB in batches and remove NULL columns. Also merge small files into files of at least 25 MB```
+
+```Please give me terraform code to create this infrastructure ```
+
+```please give me test cases for all code ```
+
+```please give me 5 more unit test cases```
+
+```give me a QA validation steps for the entire design```
 
 
 ## 3.14 Level 6
