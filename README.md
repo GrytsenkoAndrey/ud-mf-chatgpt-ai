@@ -7,12 +7,17 @@
 
 ## 3.8 Level 0
 
-Basics of Prompts
+Basics of Prompts - speak like with a human
 
 ## 3.9 Level 1
 
 Basic Shell Commands
 
+```Give me a shell command to list files which start with letter A```
+```Give me a shell command to copy all the files from the directory 'temp' to 'dev'```
+
+
 ## 3.10 Level 2
 
 Advanced Shell Commands
+
