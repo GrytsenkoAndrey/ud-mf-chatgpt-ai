@@ -75,5 +75,15 @@ End to End project execution
 
 Career Development
 
+```i am a developer with 5 years experience please generate a resume for me ```
 
-## 4.
+
+## 4.15 Open AI access options
+
+![image](https://github.com/GrytsenkoAndrey/ud-mf-chatgpt-ai/assets/63291871/f73200c5-c8d0-43ed-b55c-3719bd9ad8ec)
+
+
+
+
+
+
