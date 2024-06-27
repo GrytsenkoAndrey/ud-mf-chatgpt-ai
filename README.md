@@ -83,6 +83,14 @@ Career Development
 ![image](https://github.com/GrytsenkoAndrey/ud-mf-chatgpt-ai/assets/63291871/f73200c5-c8d0-43ed-b55c-3719bd9ad8ec)
 
 
+## 4.16 ChatGPT pricing
+
+![image](https://github.com/GrytsenkoAndrey/ud-mf-chatgpt-ai/assets/63291871/598dd258-0668-4369-bf52-323a02ee96fc)
+
+
+
+
+
 
 
 
