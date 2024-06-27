@@ -14,10 +14,33 @@ Basics of Prompts - speak like with a human
 Basic Shell Commands
 
 ```Give me a shell command to list files which start with letter A```
+
 ```Give me a shell command to copy all the files from the directory 'temp' to 'dev'```
 
 
 ## 3.10 Level 2
 
 Advanced Shell Commands
+
+```give me a shell command to find files that contain 'credit' or 'card' from root directory```
+
+```give me a shell command which creater than 10GB in size```
+
+
+
+## 3.11 Level 3
+
+Basic coding and testing
+
+
+## 3.12 Level 4
+
+Advance coding exercise
+
+
+## 3.13 Level 5 
+
+End to End project execution
+
+
 
